@@ -160,4 +160,3 @@ Trinta anos depois, continuamos fazendo essencialmente a mesma coisa — apenas 
 
 Este projeto possui finalidade exclusivamente educacional e deve ser executado em ambiente próprio, isolado e controlado.
 
-Consulte [`lab-takedown.md`](lab-takedown.md) para o aviso legal completo e o escopo técnico do laboratório.
